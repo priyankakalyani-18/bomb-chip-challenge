@@ -20,9 +20,8 @@ eating — will you survive or go BOOM?
 - Roblox Studio
 - Lua scripting
 
-## 👾 Developers
-- Priyanka (Momo)
-- Karadi
+## 👾 Developer
+- Priyanka Kalyani
 
 ## 📌 Status
 🚧 In Development
